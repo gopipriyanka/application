@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#head{
+    border: 1px solid black;
+}
+
+
+
+.item{
+     border: 1px solid black;
+     width: 15rem;
+     padding: 0.4rem;
+     text-align: center;
+}
+.item1{
+    border:1px solid black;
+    width: 12.2rem;
+    padding: 0.4rem;
+    text-align: center;
+}
+.item2{
+    border: 1px solid black;
+    padding: 0.4rem;
+    width: 11.6rem;
+    text-align: center;
+}
+.item3{
+    border: 1px solid black;
+    padding: 0.4rem;
+    width: 12.5rem;
+    text-align: center;
+}
+.item4{
+    border: 1px solid black;
+    padding: 0.4rem;
+    width: 11.8rem;
+    text-align: center;
+}
+.item5{
+    border: 1px solid black;
+    padding: 0.4rem;
+    width: 12.4rem;
+    text-align: center;
+}
+.item6{
+    border: 1px solid black;
+    padding: 0.4rem;
+    width: 12.1rem;
+    text-align: center;
+}
+.item7{
+    border: 1px solid black;
+    padding: 0.4rem;
+    width: 11.6rem;
+    text-align: center;
+}
